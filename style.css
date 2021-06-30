@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+body {
+    background-color: #1a3774;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', Verdana, sans-serif;
+    color: #7ccad9;
+    text-align: justify;
+    
+}
+h1 {
+    color: #f8a638;
+    background-color: #536043;
+}
+a {
+    color: #f8a638;
+}
+h3 {
+    background-color: #2961b5;
+    color: #9bbcee;
+}
+h4 {
+    background-color: #2961b5;
+    color: #9bbcee;
+}
+hr {
+    background-color: #2961b5;
+}
+ul {
+    background-color: #536043;
+    color: #f8a638;
+}
+ol {
+    background-color: #536043;
+    color: #f8a638;
+}
