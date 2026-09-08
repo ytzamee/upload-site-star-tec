@@ -23,6 +23,6 @@ Como desenvolvedora, utilizei este projeto para consolidar fundamentos essenciai
    ```
   Abra o arquivo index.html em qualquer navegador web.
 
-(Opcional: Você também pode visualizar o projeto online diretamente através do [GitHub Pages](https://ytzamee.github.io/upload-site-star-tec/).
+(Opcional: Você também pode visualizar o projeto online diretamente através do [GitHub Pages](https://ytzamee.github.io/upload-site-star-tec/)).
 
 Desenvolvido por Cacau S. Leal
