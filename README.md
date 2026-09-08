@@ -19,7 +19,7 @@ Como desenvolvedora, utilizei este projeto para consolidar fundamentos essenciai
 
 1. Faça o clone deste repositório no seu terminal:
    ```bash
-   git clone https://github.com/ytzamee/star-tec.git
+   git clone https://github.com/ytzamee/upload-site-star-tec.git
    ```
   Abra o arquivo index.html em qualquer navegador web.
 
